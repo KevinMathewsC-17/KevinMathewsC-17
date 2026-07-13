@@ -44,48 +44,6 @@ I'm passionate about building scalable cloud-native applications and automating 
 
 ---
 
-## 🌟 Featured Projects
-
-### 🦷 Dental OPG AI Diagnostic System
-- 🤖 AI-powered dental X-ray diagnosis using **YOLO**
-- ☁️ Deployed on **AWS EC2**
-- 🗂️ Image storage with **S3**
-- 🛢️ Patient data managed using **RDS**
-- 🔐 Secure infrastructure using **IAM Roles & Security Groups**
-
-### 🏠 66 Cents Real Estate Platform
-- 🏡 Multi-role property listing platform
-- ⚛️ Built with **React.js + Django REST**
-- ☁️ Hosted on **AWS EC2**
-- 📦 Automated deployments using **GitHub Actions CI/CD**
-- 📊 Monitoring with **CloudWatch**
-
-### 🏆 Hackathon Management Website
-- 👥 Team registration & event management portal
-- 🐍 Built using **Django & PostgreSQL**
-- ☁️ Deployed on **AWS EC2**
-- 🔒 Role-based authentication & secure environment management
-
----
-
-## 💼 Experience
-
-### 🚀 MERN Stack Developer Intern
-**Haqto Technologies** *(Jan 2026 – Present)*
-
-- Developed full-stack applications using the MERN stack
-- Integrated REST APIs
-- Collaborated using Git and Agile methodologies
-- Worked with cloud deployment environments
-
-### 🐍 Python Developer Intern
-**Hunar Intern Simulations** *(Nov 2024)*
-
-- Automated data processing workflows
-- Built Flask-based microservices
-- Improved code quality through testing and reviews
-
----
 
 ## 🌱 Currently Learning
 
@@ -94,15 +52,6 @@ I'm passionate about building scalable cloud-native applications and automating 
 - 🐳 Docker & Container Orchestration
 - 🔄 CI/CD Best Practices
 - ⚡ Cloud Automation
-
----
-
-## 🏅 Certifications & Achievements
-
-- 🎓 Scripting with Python and SQL for Data Engineering – Duke University (Coursera)
-- 🎓 Introduction to Front-End Development – Meta (Coursera)
-- 🚀 NASA Space Apps Hackathon Participant
-- 📄 Paper Presentation Participant
 
 ---
 
